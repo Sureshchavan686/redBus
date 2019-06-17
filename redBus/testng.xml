@@ -3,7 +3,7 @@
 <suite name="Maven">
   <test name="redBus booking">
     <classes>
-      
+      <class name="com.IdeapadTest"/>
       <class name="com.SearchBuseTest"/>
     </classes>
   </test> <!-- Test -->
